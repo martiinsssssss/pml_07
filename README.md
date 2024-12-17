@@ -14,14 +14,16 @@ Before running the code, you need to set up your Python environment and install 
 ```bash
 git clone (https://github.com/martiinsssssss/pml_07.git)
 cd pml_07
+```
 
 ### Step 2: Set-up the virtual environment
 ```bash
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
-
+```
 ### Step 3: Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ## Running the code
 The code structure is organized to by simply intalling all the dependencies be able to run it.
