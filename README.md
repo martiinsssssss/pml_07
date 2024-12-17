@@ -1,3 +1,5 @@
+# Paradigms of ML Group 7 project
+
 ## Table of Contents
 1. [Repository Overview](#repository-overview)
 2. [Setup](#setup)
