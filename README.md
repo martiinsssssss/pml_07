@@ -28,4 +28,4 @@ source env/bin/activate  # On Windows, use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 ## Running the code
-The code structure is organized to by simply intalling all the dependencies be able to run it.
+The code structure is organized so that if all dependencies are installed, notebooks and python scripts are able to run
