@@ -1,4 +1,4 @@
-# Paradigms of ML Group 7 project
+# Paradigms of ML Group 7
 
 ## Table of Contents
 1. [Repository Overview](#repository-overview)
